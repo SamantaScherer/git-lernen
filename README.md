@@ -12,3 +12,7 @@ Hier übe ich:
 -Git weiter lernen
 -Branches ausprobieren
 -Pull Request verstehen
+
+## Branch-Test
+
+Diese Änderung wurde auf dem Branch readme-aenderung gemacht.
