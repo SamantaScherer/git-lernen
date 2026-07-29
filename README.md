@@ -6,3 +6,9 @@ Hier übe ich:
 -Dateien ändern
 -Commits machen
 -Änderungen zu GitHub hochladen
+
+## Meine nächsten Schritte
+
+-Git weiter lernen
+-Branches ausprobieren
+-Pull Request verstehen
